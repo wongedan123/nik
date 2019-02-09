@@ -99,7 +99,7 @@ sleep 2
 clear
 echo "INSTALLATION SELESAI !"
 echo ""
-echo "silahkan ketik python2 php nik.php untuk memasuki program"
+echo "silahkan ketik php nik.php untuk memasuki program"
 echo ""
 sleep 2
 echo "INI HANYA UNTUK PERTAMA KALI INSTALL JIKA ANDA BARU MEMAKAINYA, JIKA INGIN MEMAKAI LAGI CUKUP KETIK php nik.php"
